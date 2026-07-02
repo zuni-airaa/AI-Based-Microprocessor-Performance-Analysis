@@ -1,6 +1,6 @@
 # 🖥️ AI-Based Microprocessor Performance Analysis Using Python and Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes the performance of different microprocessors using **Python** and **Machine Learning**. It compares processor specifications, visualizes performance using graphs, and predicts benchmark scores using the **Random Forest Regression** algorithm.
 
@@ -8,7 +8,7 @@ The project demonstrates how data analysis and machine learning can be applied t
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze processor specifications.
 - Compare processor performance.
@@ -19,7 +19,7 @@ The project demonstrates how data analysis and machine learning can be applied t
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Google Colab
@@ -30,7 +30,7 @@ The project demonstrates how data analysis and machine learning can be applied t
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 AI-Based-Microprocessor-Performance-Analysis
@@ -48,7 +48,7 @@ AI-Based-Microprocessor-Performance-Analysis
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains sample processor specifications, including:
 
@@ -65,7 +65,7 @@ The dataset was created for educational purposes to demonstrate data analysis an
 
 ---
 
-## ⚙️ Project Workflow
+##  Project Workflow
 
 1. Create and load the processor dataset.
 2. Perform exploratory data analysis.
@@ -77,33 +77,7 @@ The dataset was created for educational purposes to demonstrate data analysis an
 
 ---
 
-## 📈 Visualizations
-
-### Processor Performance Comparison
-
-![Processor Performance](graph1.png)
-
----
-
-### Processor Core Comparison
-
-![Processor Cores](graph2.png)
-
----
-
-### Correlation Matrix
-
-![Correlation Matrix](correlation.png)
-
----
-
-### Feature Importance
-
-![Feature Importance](graph3.png)
-
----
-
-## 🤖 Machine Learning Model
+##  Machine Learning Model
 
 **Algorithm Used:**
 - Random Forest Regressor
@@ -116,7 +90,7 @@ The model learns the relationship between processor specifications and benchmark
 
 ---
 
-## 🚀 Future Scope
+##  Future Scope
 
 - Use a larger real-world processor dataset.
 - Include processors from Intel, AMD, Apple, and ARM.
@@ -126,7 +100,7 @@ The model learns the relationship between processor specifications and benchmark
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository.
 2. Install the required libraries:
@@ -141,7 +115,7 @@ pip install -r requirement.txt
 
 ---
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I learned:
 
@@ -153,14 +127,3 @@ Through this project, I learned:
 - Model training and prediction.
 - GitHub project management.
 
----
-
-## 👩‍💻 Author
-
-**Zunaira Khan**
-
-AI Engineering Student
-
----
-
-## ⭐ If you found this project useful, consider giving it a star!
