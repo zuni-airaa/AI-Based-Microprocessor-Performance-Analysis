@@ -1,5 +1,12 @@
 # 🖥️ AI-Based Microprocessor Performance Analysis Using Python and Machine Learning
 
+## Open in Google Colab
+
+🔗 **Google Colab Notebook:**  
+[https://colab.research.google.com/drive/1AbCdEfGhIjKlMnOpQrStUvWxYz123456](https://colab.research.google.com/drive/1T-nsDejMeoV1YvKmaY7ixT7VAgBUyGw0#scrollTo=W3P9mIFYtxtd)
+
+---
+
 ##  Project Overview
 
 This project analyzes the performance of different microprocessors using **Python** and **Machine Learning**. It compares processor specifications, visualizes performance using graphs, and predicts benchmark scores using the **Random Forest Regression** algorithm.
